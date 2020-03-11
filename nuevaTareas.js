@@ -1,0 +1,1 @@
+let array = [{ford:'ka' ,fiat:'uno',audi:'tt'}]
